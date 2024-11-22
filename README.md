@@ -59,7 +59,7 @@ Giảm giá trị Kp trong PID
 Tăng giá trị Kd  
 Kiểm tra độ chắc chắn của khung xe  
 Điều khiển từ xa không hoạt động  
-Kiểm tra kết nối RF24L01  
+Kiểm tra kết nối  
 Kiểm tra địa chỉ kênh truyền  
 Kiểm tra pin remote  
 #Lưu ý quan trọng  
