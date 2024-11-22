@@ -1,14 +1,19 @@
 "# LDriver" 
+
 LDriver - Hướng Dẫn Vận Hành Xe Hai Bánh Tự Cân Bằng
+
 "# Yêu cầu" 
+
 Chuẩn bị phần cứng
+
 Cài đặt phần mềm
-Quy trình vận hành
-Kiểm thử từng chức năng
-Xử lý sự cố thường gặp
-#1. Chuẩn bị phần cứng
-Arduino Uno/Mega
-MPU6050 (Cảm biến góc nghiêng)
+
+Quy trình vận hành  
+Kiểm thử từng chức năng  
+Xử lý sự cố thường gặp  
+#1. Chuẩn bị phần cứng  
+Arduino Uno/Mega  
+MPU6050 (Cảm biến góc nghiêng)  
 #2 động cơ DC + Driver L298N
 Module điều khiển từ xa (RF24L01)
 Pin và mạch nguồn
