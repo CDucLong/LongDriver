@@ -1,5 +1,5 @@
-"# LDriver"  
-LDriver - Self-balancing Two-Wheel Vehicle Operation Guide  
+"# LongDriver"  
+LongDriver - Self-balancing Two-Wheel Vehicle Operation Guide  
 #1. Prepare hardware  
 Arduino Uno/Mega  
 MPU6050 (Tilt angle sensor)  
